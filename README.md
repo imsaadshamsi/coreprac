@@ -27,3 +27,10 @@ A .Net Core application
   - dotnet ef database update, 
   - dotnet ef migrations add InitialCreate, 
   - dotnet ef -h
+* Code Editor
+  - Visual Studio Code
+      - Extensions
+          - C# Extensions by JosKreativ
+          - .NET Install Tool for Extension Authors
+          - C# by Microsoft
+          - Prettier - Code formatter
