@@ -9,8 +9,9 @@ A .Net Core application
   - Swagger for previewing and testing APIs
   - Enabled CORS
   - JWT Authentication using bcrypt
+  - Roles based authorization
 * Libraries
-  - AutoMapper, Swagger
+  - AutoMapper, Swagger, BCrypt, JwtBearer, Swashbuckle.AspNetCore.Filters (for swagger to convert into bearer token else it will give basic auth token)
 * Commands used: 
   - dotnet, 
   - dotnet --info,
@@ -30,6 +31,8 @@ A .Net Core application
   - dotnet ef migrations add InitialCreate, 
   - dotnet ef -h
   - dotnet add package BCrypt.Net-Next
+  - dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+  - dotnet add package Swashbuckle.AspNetCore.Filters
 * Code Editor
   - Visual Studio Code
       - Extensions

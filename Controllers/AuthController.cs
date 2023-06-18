@@ -47,7 +47,8 @@ namespace coreprac.Controllers
 
         private string CreateToken(User user){
             List<Claim> claims = new List<Claim> {
-                new Claim(ClaimTypes.Name, user.Username)
+                new Claim(ClaimTypes.Name, user.Username),
+                new Claim(ClaimTypes.Role, "Admin")
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(
