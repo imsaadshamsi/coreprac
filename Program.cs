@@ -3,6 +3,7 @@ global using coreprac.Services;
 global using coreprac.Dtos.Character;
 global using Microsoft.EntityFrameworkCore;
 global using coreprac.Data;
+global using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -7,6 +7,8 @@ A .Net Core application
   - Application level for Mockup
   - and than connected with SQL database
   - Swagger for previewing and testing APIs
+  - Enabled CORS
+  - JWT Authentication using bcrypt
 * Libraries
   - AutoMapper, Swagger
 * Commands used: 
@@ -27,6 +29,7 @@ A .Net Core application
   - dotnet ef database update, 
   - dotnet ef migrations add InitialCreate, 
   - dotnet ef -h
+  - dotnet add package BCrypt.Net-Next
 * Code Editor
   - Visual Studio Code
       - Extensions

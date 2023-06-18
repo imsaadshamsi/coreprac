@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OlHiWYIrRWh8yJuCFXCUg69ATQu/KAbmJNvpdeRtJao7GbSqJuGE9Qf0KShD+oS6ZR/mWgH8rx4QpqMj5EpEDw==",
+  "dgSpecHash": "H61STRQl/sjEtzNhLBHvuRZyOavGdaviuDH9DQ5qHtZRFbYlBQtZm/ceZfb3iXlwrMV7d69iVRcKZZxTirbiow==",
   "success": true,
   "projectFilePath": "G:\\Project\\coreprac\\coreprac.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Saad Shamsi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Saad Shamsi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Saad Shamsi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Saad Shamsi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Saad Shamsi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Saad Shamsi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\Saad Shamsi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
